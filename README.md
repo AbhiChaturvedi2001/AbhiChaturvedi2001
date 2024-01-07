@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbhiChaturvedi2001](https://github.com/AbhiChaturvedi2001)
 
-- 💬 Ask me about **React , Javascript , Tailwind Css**
+- 💬 Ask me about **React , Javascript , Tailwind CSS**
 
 - 📫 How to reach me **chaturvedia435@gmail.com**
 
